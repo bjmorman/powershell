@@ -44,6 +44,8 @@ ran this script to alter the share locations.
 
 #>
 
+# TODO: verify path via test-path prior to writing to the registry
+
 [CmdletBinding()]
 Param(
   [Parameter(Mandatory=$True)]
