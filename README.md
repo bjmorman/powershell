@@ -6,7 +6,7 @@
 Generic location to store quick powershell scripts.
 
 
-### alter-powershell.ps1 ###
+### alter-sharepaths.ps1 ###
 Updates the file share pathing in the registry.  Useful when importing shares from other servers and the destination disk paths are not the same.
 
 ### remap-drives.ps1 ###
