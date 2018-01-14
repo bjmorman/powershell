@@ -2,12 +2,12 @@
 
 .SYNOPSIS
 
-add a group permissions through a folder structure.
+adds permissions through a folder structure.
 
 
 .DESCRIPTION
 
-can be used to ensure a specific group has rights to every folder under the root.
+can be used to ensure a specific group or user has rights to every folder under the root.
 
 
 .PARAMETER path
